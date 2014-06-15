@@ -31,9 +31,8 @@ public class MainActivity extends Activity {
 			@Override
 			public void onStopTrackingTouch(SeekBar seekBar) {
 				// TODO Auto-generated method stub
-				int ff = 0;
-				int jj = 11;
 				
+				String GitHub = "This is GitHub Test !!";
 			}
 			
 			@Override
